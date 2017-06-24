@@ -1,0 +1,1014 @@
+[2017-06-24 11:26:36.369] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 11:26:37.024] [INFO] CLUSTER START - 核心2 pid:12204
+[2017-06-24 11:26:37.080] [INFO] CLUSTER START - 核心2 pid:12212
+[2017-06-24 11:26:59.551] [ERROR] [EXAMPLE_ONE] - Not Found: /home
+[2017-06-24 11:26:59.557] [ERROR] [EXAMPLE_ONE] - Not Found
+[2017-06-24 11:26:59.570] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-24 14:33:26.866] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 14:33:27.628] [INFO] CLUSTER START - 核心2 pid:18136
+[2017-06-24 14:33:27.741] [INFO] CLUSTER START - 核心2 pid:16964
+[2017-06-24 15:03:53.291] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:03:53.319] [INFO] console - db pool init success!!!
+[2017-06-24 15:03:54.111] [INFO] console - db pool init success!!!
+[2017-06-24 15:03:54.117] [INFO] CLUSTER START - 核心2 pid:18680
+[2017-06-24 15:03:54.327] [INFO] console - db pool init success!!!
+[2017-06-24 15:03:54.332] [INFO] CLUSTER START - 核心2 pid:19268
+[2017-06-24 15:04:20.258] [ERROR] console - TypeError: Cannot read property 'release' of undefined
+    at Object.obj.doRelease (D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:117:15)
+    at D:\liyunfei\Fairy_Tail\example_one\routes\index.js:13:18
+    at D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:99:9
+    at D:\liyunfei\Fairy_Tail\example_one\node_modules\_oracledb@1.13.1@oracledb\lib\pool.js:51:7
+[2017-06-24 15:04:20.614] [INFO] CLUSTER START - 核心2 pid:19268 重启
+[2017-06-24 15:04:21.025] [INFO] CLUSTER START - 核心2 pid:18680 重启
+[2017-06-24 15:04:23.289] [INFO] CLUSTER START - 核心2 pid:19128
+[2017-06-24 15:04:23.307] [INFO] console - db pool init success!!!
+[2017-06-24 15:04:23.913] [INFO] CLUSTER START - 核心2 pid:19164
+[2017-06-24 15:04:24.005] [INFO] console - db pool init success!!!
+[2017-06-24 15:04:26.087] [ERROR] console - TypeError: Cannot read property 'release' of undefined
+    at Object.obj.doRelease (D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:117:15)
+    at D:\liyunfei\Fairy_Tail\example_one\routes\index.js:13:18
+    at D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:99:9
+    at D:\liyunfei\Fairy_Tail\example_one\node_modules\_oracledb@1.13.1@oracledb\lib\pool.js:51:7
+[2017-06-24 15:04:26.500] [INFO] CLUSTER START - 核心2 pid:19164 重启
+[2017-06-24 15:04:29.144] [INFO] CLUSTER START - 核心2 pid:16984
+[2017-06-24 15:04:29.160] [INFO] console - db pool init success!!!
+[2017-06-24 15:04:37.830] [ERROR] console - TypeError: Cannot read property 'release' of undefined
+    at Object.obj.doRelease (D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:117:15)
+    at D:\liyunfei\Fairy_Tail\example_one\routes\index.js:13:18
+    at D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:99:9
+    at D:\liyunfei\Fairy_Tail\example_one\node_modules\_oracledb@1.13.1@oracledb\lib\pool.js:51:7
+[2017-06-24 15:04:38.176] [INFO] CLUSTER START - 核心2 pid:16984 重启
+[2017-06-24 15:04:38.179] [ERROR] console - TypeError: Cannot read property 'release' of undefined
+    at Object.obj.doRelease (D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:117:15)
+    at D:\liyunfei\Fairy_Tail\example_one\routes\index.js:13:18
+    at D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:99:9
+    at D:\liyunfei\Fairy_Tail\example_one\node_modules\_oracledb@1.13.1@oracledb\lib\pool.js:51:7
+[2017-06-24 15:04:38.557] [INFO] CLUSTER START - 核心2 pid:19128 重启
+[2017-06-24 15:04:40.850] [INFO] CLUSTER START - 核心2 pid:18996
+[2017-06-24 15:04:40.872] [INFO] console - db pool init success!!!
+[2017-06-24 15:04:41.451] [INFO] CLUSTER START - 核心2 pid:17944
+[2017-06-24 15:04:41.529] [INFO] console - db pool init success!!!
+[2017-06-24 15:05:08.612] [ERROR] console - TypeError: Cannot read property 'release' of undefined
+    at Object.obj.doRelease (D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:117:15)
+    at D:\liyunfei\Fairy_Tail\example_one\routes\index.js:13:18
+    at D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:99:9
+    at D:\liyunfei\Fairy_Tail\example_one\node_modules\_oracledb@1.13.1@oracledb\lib\pool.js:51:7
+[2017-06-24 15:05:08.965] [INFO] CLUSTER START - 核心2 pid:17944 重启
+[2017-06-24 15:05:11.605] [INFO] CLUSTER START - 核心2 pid:17988
+[2017-06-24 15:05:11.623] [INFO] console - db pool init success!!!
+[2017-06-24 15:06:09.003] [ERROR] console - TypeError: Cannot read property 'release' of undefined
+    at Object.obj.doRelease (D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:117:15)
+    at D:\liyunfei\Fairy_Tail\example_one\routes\index.js:13:18
+    at D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:99:9
+    at D:\liyunfei\Fairy_Tail\example_one\node_modules\_oracledb@1.13.1@oracledb\lib\pool.js:51:7
+[2017-06-24 15:06:09.344] [INFO] CLUSTER START - 核心2 pid:17988 重启
+[2017-06-24 15:06:12.066] [INFO] CLUSTER START - 核心2 pid:18320
+[2017-06-24 15:06:12.075] [INFO] console - db pool init success!!!
+[2017-06-24 15:07:50.676] [ERROR] console - TypeError: Cannot read property 'release' of undefined
+    at Object.obj.doRelease (D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:117:15)
+    at D:\liyunfei\Fairy_Tail\example_one\routes\index.js:13:18
+    at D:\liyunfei\Fairy_Tail\example_one\lib\myoracle.js:99:9
+    at D:\liyunfei\Fairy_Tail\example_one\node_modules\_oracledb@1.13.1@oracledb\lib\pool.js:51:7
+[2017-06-24 15:07:51.040] [INFO] CLUSTER START - 核心2 pid:18320 重启
+[2017-06-24 15:07:53.710] [INFO] CLUSTER START - 核心2 pid:18956
+[2017-06-24 15:07:53.730] [INFO] console - db pool init success!!!
+[2017-06-24 15:09:44.846] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:09:44.865] [INFO] console - db pool init success!!!
+[2017-06-24 15:09:45.614] [INFO] CLUSTER START - 核心2 pid:19056
+[2017-06-24 15:09:45.625] [INFO] console - db pool init success!!!
+[2017-06-24 15:09:45.891] [INFO] console - db pool init success!!!
+[2017-06-24 15:09:46.175] [INFO] CLUSTER START - 核心2 pid:18780
+[2017-06-24 15:09:59.192] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:09:59.193] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:09:59.236] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 15:10:28.199] [INFO] console - --------------------get one db connect count :2
+[2017-06-24 15:10:28.199] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:10:28.202] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 15:10:35.449] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:10:35.484] [INFO] console - db pool init success!!!
+[2017-06-24 15:10:36.604] [INFO] console - db pool init success!!!
+[2017-06-24 15:10:37.018] [INFO] console - db pool init success!!!
+[2017-06-24 15:10:37.009] [INFO] CLUSTER START - 核心2 pid:18956
+[2017-06-24 15:10:37.139] [INFO] CLUSTER START - 核心2 pid:14728
+[2017-06-24 15:10:40.332] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:10:40.333] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:10:40.693] [INFO] CLUSTER START - 核心2 pid:14728 重启
+[2017-06-24 15:10:43.380] [INFO] CLUSTER START - 核心2 pid:18464
+[2017-06-24 15:10:43.405] [INFO] console - db pool init success!!!
+[2017-06-24 15:11:02.851] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:11:02.852] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:11:03.203] [INFO] CLUSTER START - 核心2 pid:18464 重启
+[2017-06-24 15:11:05.868] [INFO] CLUSTER START - 核心2 pid:19384
+[2017-06-24 15:11:05.895] [INFO] console - db pool init success!!!
+[2017-06-24 15:11:39.423] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:11:39.453] [INFO] console - db pool init success!!!
+[2017-06-24 15:11:40.297] [INFO] CLUSTER START - 核心2 pid:18296
+[2017-06-24 15:11:40.309] [INFO] console - db pool init success!!!
+[2017-06-24 15:11:40.727] [INFO] console - db pool init success!!!
+[2017-06-24 15:11:40.879] [INFO] CLUSTER START - 核心2 pid:15484
+[2017-06-24 15:11:44.304] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:11:44.306] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:11:44.313] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 15:11:44.356] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 15:13:54.269] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:13:54.270] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:13:54.272] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 15:13:54.289] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 15:16:24.005] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:16:24.006] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:16:24.008] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 15:16:24.013] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 15:16:34.040] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:16:34.040] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:16:34.042] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 15:16:34.047] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 15:24:04.345] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:24:04.391] [INFO] console - db pool init success!!!
+[2017-06-24 15:24:05.375] [INFO] console - db pool init success!!!
+[2017-06-24 15:24:05.441] [INFO] console - db pool init success!!!
+[2017-06-24 15:24:05.456] [INFO] CLUSTER START - 核心2 pid:20116
+[2017-06-24 15:24:05.458] [INFO] CLUSTER START - 核心2 pid:19624
+[2017-06-24 15:24:21.344] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 15:24:21.344] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 15:24:21.347] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 15:24:21.372] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 15:24:35.409] [INFO] [EXAMPLE_ONE] - GET /api/getsession
+[2017-06-24 15:25:06.182] [INFO] [EXAMPLE_ONE] - GET /api/getsession
+[2017-06-24 15:25:15.224] [INFO] [EXAMPLE_ONE] - GET /api/getsession
+[2017-06-24 15:25:15.737] [INFO] [EXAMPLE_ONE] - GET /api/getsession
+[2017-06-24 15:25:16.102] [INFO] [EXAMPLE_ONE] - GET /api/getsession
+[2017-06-24 15:25:16.907] [INFO] [EXAMPLE_ONE] - GET /api/getsession
+[2017-06-24 15:28:55.315] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:28:55.339] [INFO] console - db pool init success!!!
+[2017-06-24 15:28:56.326] [INFO] console - db pool init success!!!
+[2017-06-24 15:28:56.486] [INFO] console - db pool init success!!!
+[2017-06-24 15:28:56.617] [INFO] CLUSTER START - 核心2 pid:20456
+[2017-06-24 15:28:56.617] [INFO] CLUSTER START - 核心2 pid:16720
+[2017-06-24 15:39:46.235] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:39:46.280] [INFO] console - db pool init success!!!
+[2017-06-24 15:39:47.194] [INFO] console - db pool init success!!!
+[2017-06-24 15:39:47.223] [INFO] console - db pool init success!!!
+[2017-06-24 15:39:47.260] [INFO] CLUSTER START - 核心2 pid:21384
+[2017-06-24 15:39:47.260] [INFO] CLUSTER START - 核心2 pid:21360
+[2017-06-24 15:55:14.520] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:55:14.551] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:14.652] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:55:14.726] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:16.235] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:16.373] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:16.393] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:17.726] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:19.499] [INFO] CLUSTER START - 核心2 pid:21352
+[2017-06-24 15:55:20.329] [INFO] CLUSTER START - 核心2 pid:21088
+[2017-06-24 15:55:21.565] [INFO] CLUSTER START - 核心2 pid:20064 重启
+[2017-06-24 15:55:22.422] [INFO] CLUSTER START - 核心2 pid:16820 重启
+[2017-06-24 15:55:24.600] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:24.923] [INFO] CLUSTER START - 核心2 pid:20232 重启
+[2017-06-24 15:55:25.423] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:25.464] [INFO] CLUSTER START - 核心2 pid:14356 重启
+[2017-06-24 15:55:27.745] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:27.810] [INFO] CLUSTER START - 核心2 pid:20544 重启
+[2017-06-24 15:55:28.581] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:28.652] [INFO] CLUSTER START - 核心2 pid:20416 重启
+[2017-06-24 15:55:30.608] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:30.683] [INFO] CLUSTER START - 核心2 pid:19920 重启
+[2017-06-24 15:55:31.475] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:31.536] [INFO] CLUSTER START - 核心2 pid:20232 重启
+[2017-06-24 15:55:33.521] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:33.592] [INFO] CLUSTER START - 核心2 pid:21388 重启
+[2017-06-24 15:55:34.355] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:34.412] [INFO] CLUSTER START - 核心2 pid:3328 重启
+[2017-06-24 15:55:36.436] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:36.489] [INFO] CLUSTER START - 核心2 pid:20628 重启
+[2017-06-24 15:55:37.313] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:37.372] [INFO] CLUSTER START - 核心2 pid:20748 重启
+[2017-06-24 15:55:39.380] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:40.495] [INFO] CLUSTER START - 核心2 pid:21488 重启
+[2017-06-24 15:55:40.497] [INFO] CLUSTER START - 核心2 pid:20684 重启
+[2017-06-24 15:55:43.405] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:43.526] [INFO] CLUSTER START - 核心2 pid:21376 重启
+[2017-06-24 15:55:43.811] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:43.952] [INFO] CLUSTER START - 核心2 pid:20544 重启
+[2017-06-24 15:55:46.341] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:46.375] [INFO] CLUSTER START - 核心2 pid:19644 重启
+[2017-06-24 15:55:47.167] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:47.247] [INFO] CLUSTER START - 核心2 pid:20868 重启
+[2017-06-24 15:55:49.150] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:49.189] [INFO] CLUSTER START - 核心2 pid:20876 重启
+[2017-06-24 15:55:49.874] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:49.908] [INFO] CLUSTER START - 核心2 pid:20456 重启
+[2017-06-24 15:55:52.035] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:52.050] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:52.114] [INFO] CLUSTER START - 核心2 pid:21336 重启
+[2017-06-24 15:55:52.884] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:52.939] [INFO] CLUSTER START - 核心2 pid:19968 重启
+[2017-06-24 15:55:55.146] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:55.201] [INFO] CLUSTER START - 核心2 pid:21156 重启
+[2017-06-24 15:55:56.037] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:56.087] [INFO] CLUSTER START - 核心2 pid:20564 重启
+[2017-06-24 15:55:58.323] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:55:58.385] [INFO] CLUSTER START - 核心2 pid:17820 重启
+[2017-06-24 15:55:59.167] [INFO] console - db pool init success!!!
+[2017-06-24 15:55:59.238] [INFO] CLUSTER START - 核心2 pid:13988 重启
+[2017-06-24 15:56:01.317] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:01.390] [INFO] CLUSTER START - 核心2 pid:20692 重启
+[2017-06-24 15:56:02.235] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:02.260] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:02.313] [INFO] CLUSTER START - 核心2 pid:20776 重启
+[2017-06-24 15:56:04.207] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:04.217] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:04.278] [INFO] CLUSTER START - 核心2 pid:20684 重启
+[2017-06-24 15:56:04.991] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:05.037] [INFO] CLUSTER START - 核心2 pid:18684 重启
+[2017-06-24 15:56:07.113] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:07.131] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:07.193] [INFO] CLUSTER START - 核心2 pid:20616 重启
+[2017-06-24 15:56:07.914] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:07.968] [INFO] CLUSTER START - 核心2 pid:20384 重启
+[2017-06-24 15:56:10.653] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:11.100] [INFO] CLUSTER START - 核心2 pid:21444 重启
+[2017-06-24 15:56:11.244] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:11.356] [INFO] CLUSTER START - 核心2 pid:18784 重启
+[2017-06-24 15:56:13.964] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:14.162] [INFO] CLUSTER START - 核心2 pid:3304 重启
+[2017-06-24 15:56:14.704] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:14.742] [INFO] CLUSTER START - 核心2 pid:21440 重启
+[2017-06-24 15:56:17.032] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:17.088] [INFO] CLUSTER START - 核心2 pid:21412 重启
+[2017-06-24 15:56:17.932] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:17.981] [INFO] CLUSTER START - 核心2 pid:19312 重启
+[2017-06-24 15:56:20.083] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:20.097] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:20.208] [INFO] CLUSTER START - 核心2 pid:16820 重启
+[2017-06-24 15:56:20.891] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:20.931] [INFO] CLUSTER START - 核心2 pid:20564 重启
+[2017-06-24 15:56:24.116] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:56:24.269] [INFO] CLUSTER START - 核心2 pid:19312 重启
+[2017-06-24 15:56:24.316] [INFO] CLUSTER START - 核心2 pid:20384 重启
+[2017-06-24 15:56:38.029] [INFO] CLUSTER START - 核心2 pid:21352 重启
+[2017-06-24 15:56:39.792] [INFO] CLUSTER START - 核心2 pid:21088 重启
+[2017-06-24 15:56:40.808] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:40.817] [INFO] CLUSTER START - 核心2 pid:21408
+[2017-06-24 15:56:43.376] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:43.383] [INFO] CLUSTER START - 核心2 pid:20112
+[2017-06-24 15:56:48.917] [INFO] CLUSTER START - 核心2 pid:21408 重启
+[2017-06-24 15:56:51.598] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:51.607] [INFO] CLUSTER START - 核心2 pid:21480
+[2017-06-24 15:56:52.223] [INFO] CLUSTER START - 核心2 pid:20112 重启
+[2017-06-24 15:56:55.013] [INFO] console - db pool init success!!!
+[2017-06-24 15:56:55.019] [INFO] CLUSTER START - 核心2 pid:21476
+[2017-06-24 15:57:21.646] [INFO] CLUSTER START - 核心2 pid:21480 重启
+[2017-06-24 15:57:24.645] [INFO] console - db pool init success!!!
+[2017-06-24 15:57:24.656] [INFO] CLUSTER START - 核心2 pid:16732
+[2017-06-24 15:57:25.828] [INFO] CLUSTER START - 核心2 pid:21476 重启
+[2017-06-24 15:57:28.765] [INFO] CLUSTER START - 核心2 pid:20988
+[2017-06-24 15:57:28.777] [INFO] console - db pool init success!!!
+[2017-06-24 15:58:13.532] [INFO] console - account: 123
+[2017-06-24 15:58:13.533] [INFO] console - password: 456
+[2017-06-24 15:58:31.894] [INFO] CLUSTER START - 核心2 pid:16732 重启
+[2017-06-24 15:58:31.905] [INFO] CLUSTER START - 核心2 pid:20988 重启
+[2017-06-24 15:58:35.117] [INFO] console - db pool init success!!!
+[2017-06-24 15:58:35.125] [INFO] CLUSTER START - 核心2 pid:20612
+[2017-06-24 15:58:36.132] [INFO] console - db pool init success!!!
+[2017-06-24 15:58:36.158] [INFO] CLUSTER START - 核心2 pid:19736
+[2017-06-24 15:58:39.877] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 15:58:39.904] [INFO] console - db pool init success!!!
+[2017-06-24 15:58:40.476] [INFO] console - db pool init success!!!
+[2017-06-24 15:58:40.554] [INFO] CLUSTER START - 核心2 pid:14712 重启
+[2017-06-24 15:58:40.719] [INFO] console - db pool init success!!!
+[2017-06-24 15:58:40.777] [INFO] CLUSTER START - 核心2 pid:21092 重启
+[2017-06-24 15:58:43.191] [ERROR] CLUSTER START - { [Error: bind EADDRINUSE null:3001]
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3001 }
+Error: bind EADDRINUSE null:3001
+    at Object.exports._errnoException (util.js:907:11)
+    at exports._exceptionWithHostPort (util.js:930:20)
+    at cb (net.js:1315:16)
+    at shared (cluster.js:606:5)
+    at Worker.<anonymous> (cluster.js:579:9)
+    at process.<anonymous> (cluster.js:749:8)
+    at emitTwo (events.js:92:20)
+    at process.emit (events.js:172:7)
+    at internal/child_process.js:696:12
+    at nextTickCallbackWith0Args (node.js:420:9)
+[2017-06-24 15:58:43.380] [INFO] CLUSTER START - 核心2 pid:20644 重启
+[2017-06-24 15:58:43.706] [INFO] console - db pool init success!!!
+[2017-06-24 15:58:43.764] [INFO] CLUSTER START - 核心2 pid:16892 重启
+[2017-06-24 16:01:51.222] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:01:51.247] [INFO] console - db pool init success!!!
+[2017-06-24 16:01:51.841] [INFO] console - db pool init success!!!
+[2017-06-24 16:01:51.850] [INFO] CLUSTER START - 核心2 pid:22436
+[2017-06-24 16:01:51.958] [INFO] console - db pool init success!!!
+[2017-06-24 16:01:51.964] [INFO] CLUSTER START - 核心2 pid:22424
+[2017-06-24 16:02:02.406] [INFO] console - account: 123
+[2017-06-24 16:02:02.406] [INFO] console - password: 456
+[2017-06-24 16:10:48.992] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:10:49.020] [INFO] console - db pool init success!!!
+[2017-06-24 16:10:49.634] [INFO] console - db pool init success!!!
+[2017-06-24 16:10:49.648] [INFO] CLUSTER START - 核心2 pid:21700
+[2017-06-24 16:10:49.780] [INFO] console - db pool init success!!!
+[2017-06-24 16:10:49.788] [INFO] CLUSTER START - 核心2 pid:21768
+[2017-06-24 16:11:09.001] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:11:09.002] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME,        AND PASSWORD = :PASSWORD
+[2017-06-24 16:11:09.002] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:11:09.518] [ERROR] INDEX - [Error: ORA-00933: SQL command not properly ended
+]
+Error: ORA-00933: SQL command not properly ended
+
+    at Error (native)
+[2017-06-24 16:11:09.927] [INFO] CLUSTER START - 核心2 pid:21768 重启
+[2017-06-24 16:11:12.581] [INFO] console - db pool init success!!!
+[2017-06-24 16:11:12.588] [INFO] CLUSTER START - 核心2 pid:22404
+[2017-06-24 16:12:59.997] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:13:00.059] [INFO] console - db pool init success!!!
+[2017-06-24 16:13:00.632] [INFO] CLUSTER START - 核心2 pid:19084
+[2017-06-24 16:13:00.680] [INFO] console - db pool init success!!!
+[2017-06-24 16:13:01.203] [INFO] console - db pool init success!!!
+[2017-06-24 16:13:01.296] [INFO] CLUSTER START - 核心2 pid:19760
+[2017-06-24 16:13:09.775] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:13:09.776] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME,        AND PASSWORD = :PASSWORD
+[2017-06-24 16:13:09.777] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:13:09.781] [ERROR] INDEX - [Error: ORA-00933: SQL command not properly ended
+]
+Error: ORA-00933: SQL command not properly ended
+
+    at Error (native)
+[2017-06-24 16:13:09.792] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:23:36.421] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:23:36.489] [INFO] console - db pool init success!!!
+[2017-06-24 16:23:37.058] [INFO] console - db pool init success!!!
+[2017-06-24 16:23:37.069] [INFO] CLUSTER START - 核心2 pid:22300
+[2017-06-24 16:23:37.424] [INFO] console - db pool init success!!!
+[2017-06-24 16:23:37.437] [INFO] CLUSTER START - 核心2 pid:18816
+[2017-06-24 16:23:48.459] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:23:48.460] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = '李云飞',        AND PASSWORD = '123456'
+[2017-06-24 16:23:48.464] [ERROR] INDEX - [Error: ORA-00933: SQL command not properly ended
+]
+Error: ORA-00933: SQL command not properly ended
+
+    at Error (native)
+[2017-06-24 16:23:48.472] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:24:28.273] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:24:28.344] [INFO] console - db pool init success!!!
+[2017-06-24 16:24:29.227] [INFO] CLUSTER START - 核心2 pid:21696
+[2017-06-24 16:24:29.333] [INFO] console - db pool init success!!!
+[2017-06-24 16:24:29.582] [INFO] console - db pool init success!!!
+[2017-06-24 16:24:29.649] [INFO] CLUSTER START - 核心2 pid:21660
+[2017-06-24 16:24:37.799] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:24:37.801] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:24:37.802] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:24:38.186] [INFO] CLUSTER START - 核心2 pid:21660 重启
+[2017-06-24 16:24:40.947] [INFO] console - db pool init success!!!
+[2017-06-24 16:24:40.956] [INFO] CLUSTER START - 核心2 pid:22164
+[2017-06-24 16:25:16.062] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:25:16.089] [INFO] console - db pool init success!!!
+[2017-06-24 16:25:16.921] [INFO] CLUSTER START - 核心2 pid:22028
+[2017-06-24 16:25:16.913] [INFO] console - db pool init success!!!
+[2017-06-24 16:25:17.061] [INFO] console - db pool init success!!!
+[2017-06-24 16:25:17.091] [INFO] CLUSTER START - 核心2 pid:16740
+[2017-06-24 16:25:25.816] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:25:25.817] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:25:25.817] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:25:25.821] [INFO] console - [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:25:26.215] [INFO] CLUSTER START - 核心2 pid:16740 重启
+[2017-06-24 16:25:28.811] [INFO] console - db pool init success!!!
+[2017-06-24 16:25:28.818] [INFO] CLUSTER START - 核心2 pid:22112
+[2017-06-24 16:26:09.994] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:26:10.019] [INFO] console - db pool init success!!!
+[2017-06-24 16:26:10.663] [INFO] CLUSTER START - 核心2 pid:7872
+[2017-06-24 16:26:10.769] [INFO] console - db pool init success!!!
+[2017-06-24 16:26:10.786] [INFO] CLUSTER START - 核心2 pid:21248
+[2017-06-24 16:26:10.790] [INFO] console - db pool init success!!!
+[2017-06-24 16:26:20.036] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:26:20.036] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:26:20.036] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:26:20.039] [INFO] console - [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:26:20.439] [INFO] CLUSTER START - 核心2 pid:21248 重启
+[2017-06-24 16:26:23.063] [INFO] CLUSTER START - 核心2 pid:21752
+[2017-06-24 16:26:23.057] [INFO] console - db pool init success!!!
+[2017-06-24 16:27:15.970] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:27:15.997] [INFO] console - db pool init success!!!
+[2017-06-24 16:27:16.862] [INFO] CLUSTER START - 核心2 pid:21764
+[2017-06-24 16:27:17.030] [INFO] console - db pool init success!!!
+[2017-06-24 16:27:17.104] [INFO] console - db pool init success!!!
+[2017-06-24 16:27:17.180] [INFO] CLUSTER START - 核心2 pid:18764
+[2017-06-24 16:27:21.447] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:27:27.327] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:27:27.377] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:27:27.377] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:27:27.378] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:27:27.381] [INFO] console - [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:27:27.399] [INFO] console - req.session: Session {
+  cookie: 
+   { path: '/',
+     _expires: Sat Jun 24 2017 17:27:21 GMT+0800 (中国标准时间),
+     originalMaxAge: 3600000,
+     httpOnly: true } }
+[2017-06-24 16:27:27.401] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:27:38.409] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:27:38.410] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 16:27:38.413] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:27:38.418] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:27:38.421] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 16:31:09.518] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:31:09.549] [INFO] console - db pool init success!!!
+[2017-06-24 16:31:10.238] [INFO] console - db pool init success!!!
+[2017-06-24 16:31:10.244] [INFO] CLUSTER START - 核心2 pid:21992
+[2017-06-24 16:31:10.447] [INFO] console - db pool init success!!!
+[2017-06-24 16:31:10.555] [INFO] CLUSTER START - 核心2 pid:23336
+[2017-06-24 16:31:17.136] [ERROR] [EXAMPLE_ONE] - Cannot read property 'maxAge' of undefined
+[2017-06-24 16:31:17.155] [INFO] [EXAMPLE_ONE] - GET /api/setsession
+[2017-06-24 16:32:02.092] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:32:02.112] [INFO] console - db pool init success!!!
+[2017-06-24 16:32:02.830] [INFO] CLUSTER START - 核心2 pid:22644
+[2017-06-24 16:32:02.852] [INFO] console - db pool init success!!!
+[2017-06-24 16:32:02.963] [INFO] console - db pool init success!!!
+[2017-06-24 16:32:02.969] [INFO] CLUSTER START - 核心2 pid:22208
+[2017-06-24 16:32:39.695] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:32:39.719] [INFO] console - db pool init success!!!
+[2017-06-24 16:32:40.329] [INFO] CLUSTER START - 核心2 pid:20456
+[2017-06-24 16:32:40.381] [INFO] console - db pool init success!!!
+[2017-06-24 16:32:40.529] [INFO] console - db pool init success!!!
+[2017-06-24 16:32:40.540] [INFO] CLUSTER START - 核心2 pid:22328
+[2017-06-24 16:32:43.330] [INFO] [EXAMPLE_ONE] - GET /api/setsession
+[2017-06-24 16:32:45.153] [INFO] [EXAMPLE_ONE] - GET /api/setsession
+[2017-06-24 16:32:49.946] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 16:32:49.978] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 16:32:56.959] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:32:57.005] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:32:57.007] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:32:57.007] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:32:57.010] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:33:39.398] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 16:33:39.405] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 16:33:41.327] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 16:33:43.497] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 16:33:43.505] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 16:33:58.994] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:33:59.062] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:33:59.062] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:33:59.062] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:33:59.066] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:34:40.043] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:34:45.410] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:34:45.410] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:34:45.411] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:34:45.414] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:34:45.425] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:40:00.252] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:40:00.307] [INFO] console - db pool init success!!!
+[2017-06-24 16:40:00.910] [INFO] console - db pool init success!!!
+[2017-06-24 16:40:00.930] [INFO] CLUSTER START - 核心2 pid:23128
+[2017-06-24 16:40:01.015] [INFO] console - db pool init success!!!
+[2017-06-24 16:40:01.020] [INFO] CLUSTER START - 核心2 pid:23244
+[2017-06-24 16:40:06.738] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:40:08.087] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:40:15.337] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:40:15.392] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:40:15.393] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:40:15.393] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:40:15.396] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:42:55.085] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:42:55.142] [INFO] console - db pool init success!!!
+[2017-06-24 16:42:55.842] [INFO] console - db pool init success!!!
+[2017-06-24 16:42:55.848] [INFO] CLUSTER START - 核心2 pid:20456
+[2017-06-24 16:42:55.920] [INFO] console - db pool init success!!!
+[2017-06-24 16:42:55.925] [INFO] CLUSTER START - 核心2 pid:22312
+[2017-06-24 16:43:09.151] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:43:15.439] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:43:15.481] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:43:15.481] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:43:15.482] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:43:15.490] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:47:51.693] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 16:47:51.726] [INFO] console - db pool init success!!!
+[2017-06-24 16:47:52.340] [INFO] CLUSTER START - 核心2 pid:23472
+[2017-06-24 16:47:52.421] [INFO] console - db pool init success!!!
+[2017-06-24 16:47:52.707] [INFO] console - db pool init success!!!
+[2017-06-24 16:47:52.737] [INFO] CLUSTER START - 核心2 pid:23252
+[2017-06-24 16:48:25.436] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:48:33.476] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:48:33.526] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:48:33.527] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:48:33.527] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:48:33.532] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:49:11.491] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:49:16.598] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:49:16.599] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:49:16.599] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:49:16.605] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 16:49:16.606] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:49:16.611] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:49:48.604] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:49:54.046] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:49:54.046] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:49:54.047] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:49:54.051] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:49:54.053] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 16:49:54.055] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:49:55.908] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:49:55.909] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 16:49:55.911] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:49:55.928] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:49:55.929] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 16:50:40.515] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:50:40.515] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 16:50:40.518] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:50:40.522] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:50:40.525] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 16:52:43.261] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:52:43.261] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 16:52:43.265] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:52:43.269] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:52:43.271] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 16:52:47.993] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 16:52:55.841] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:52:55.841] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 16:52:55.841] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 16:52:55.845] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:52:55.849] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 16:52:55.885] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 16:52:57.271] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 16:52:57.272] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 16:52:57.276] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 16:52:57.278] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 16:52:57.279] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 17:22:58.681] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:22:58.682] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 17:22:58.684] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 17:22:58.687] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:22:58.688] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 17:23:07.393] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:23:15.790] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:23:35.996] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:23:36.060] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:23:36.060] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:23:36.060] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:23:36.064] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:24:16.723] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:24:16.728] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:24:16.728] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:24:16.728] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:24:16.748] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:24:29.113] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:24:36.283] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:24:36.283] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:24:36.284] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:24:36.288] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:24:36.288] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:24:36.306] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:24:37.705] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:24:37.706] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 17:24:37.708] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 17:24:37.736] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:24:37.737] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 17:24:47.977] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:29:23.030] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:31:14.692] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:31:24.636] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:31:24.696] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:31:24.696] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:31:24.696] [INFO] INDEX - param:{"NAME":{"val":"liyunfei","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:31:24.698] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:31:40.184] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 17:31:40.209] [INFO] console - db pool init success!!!
+[2017-06-24 17:31:40.840] [INFO] console - db pool init success!!!
+[2017-06-24 17:31:40.846] [INFO] CLUSTER START - 核心2 pid:3324
+[2017-06-24 17:31:41.056] [INFO] console - db pool init success!!!
+[2017-06-24 17:31:41.061] [INFO] CLUSTER START - 核心2 pid:24564
+[2017-06-24 17:31:44.223] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:31:46.210] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:31:54.127] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:31:54.186] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:31:54.186] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:31:54.187] [INFO] INDEX - param:{"NAME":{"val":"liyunfei","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:31:54.193] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:32:24.235] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:24.337] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:32:24.339] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:32:24.339] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:32:24.346] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:32:35.981] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:32:35.981] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:32:35.981] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:32:35.987] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:32:35.989] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:32:36.009] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:37.319] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:32:37.319] [INFO] INDEX - sql: select *    from test_user 
+[2017-06-24 17:32:37.322] [INFO] INDEX - reult.rows: [ { ID: 3, NAME: '李云飞', PASSWORD: '123456' } ]
+[2017-06-24 17:32:37.346] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:32:37.348] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 17:32:43.511] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:44.227] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:44.712] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:45.047] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:45.390] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:46.266] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:32:46.266] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:32:46.266] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:32:46.270] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:32:46.270] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:32:46.287] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:32:47.886] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-24 17:32:47.897] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:33:22.988] [INFO] CLUSTER START - 宿主启动...
+[2017-06-24 17:33:23.013] [INFO] console - db pool init success!!!
+[2017-06-24 17:33:23.713] [INFO] console - db pool init success!!!
+[2017-06-24 17:33:23.717] [INFO] CLUSTER START - 核心2 pid:18636
+[2017-06-24 17:33:24.084] [INFO] console - db pool init success!!!
+[2017-06-24 17:33:24.271] [INFO] CLUSTER START - 核心2 pid:21724
+[2017-06-24 17:33:26.491] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:33:26.629] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:33:26.630] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:33:26.630] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:33:26.641] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:33:30.975] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:33:30.976] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:33:30.976] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:33:30.991] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:33:31.003] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:33:31.025] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:33:33.708] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:33:33.788] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:33:33.788] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:33:33.788] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:33:33.793] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:33:38.432] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:33:38.433] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:33:38.433] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:33:38.438] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:33:38.441] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:33:38.453] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:33:46.030] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:33:46.030] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:33:46.030] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:33:46.039] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:33:46.041] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:33:46.041] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:35:04.197] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:35:05.882] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:35:05.937] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:35:05.938] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:35:05.939] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:35:05.943] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:36:08.482] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:36:11.181] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:36:23.635] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:36:25.127] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:36:43.339] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:36:43.404] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:36:43.404] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:36:43.404] [INFO] INDEX - param:{"NAME":{"val":"李云飞","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:36:43.408] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:36:47.566] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:36:47.606] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:36:47.606] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:36:47.607] [INFO] INDEX - param:{"NAME":{"val":"liyunfei","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:36:47.609] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:36:49.866] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:36:49.866] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:36:49.866] [INFO] INDEX - param:{"NAME":{"val":"liyunfei","type":2001,"dir":3001},"PASSWORD":{"val":"123456","type":2001,"dir":3001}}
+[2017-06-24 17:36:49.874] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:36:49.876] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:36:49.895] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:37:25.292] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:37:27.307] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:37:28.627] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:37:28.628] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:37:28.628] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:37:28.630] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:37:28.632] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:37:28.636] [INFO] [EXAMPLE_ONE] - POST /login
+[2017-06-24 17:38:15.523] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:38:32.608] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:38:56.617] [INFO] [EXAMPLE_ONE] - GET /login?
+[2017-06-24 17:38:56.679] [INFO] console - --------------------get one db connect count :1
+[2017-06-24 17:38:56.679] [INFO] INDEX - sql: SELECT *    FROM TEST_USER    WHERE NAME = :NAME        AND PASSWORD = :PASSWORD
+[2017-06-24 17:38:56.679] [INFO] INDEX - param:{"NAME":{"val":"Email","type":2001,"dir":3001},"PASSWORD":{"val":"Password","type":2001,"dir":3001}}
+[2017-06-24 17:38:56.681] [INFO] console - --------------------release one db connect count :0
+[2017-06-24 17:40:07.836] [INFO] [EXAMPLE_ONE] - GET /login
+[2017-06-24 17:40:54.524] [INFO] [EXAMPLE_ONE] - GET /login
