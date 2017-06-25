@@ -15,10 +15,13 @@
     "serve-favicon": "~2.4.2"
   },
   "devDependencies": {
+    "async": "^2.4.1",
     "cluster": "^0.7.7",
     "connect-redis": "^3.3.0",
     "express-session": "^1.15.3",
+    "jssha": "^2.3.1",
     "log4js": "^1.1.1",
-    "moment": "^2.18.1"
+    "moment": "^2.18.1",
+    "sha1": "^1.1.1"
   }
 }

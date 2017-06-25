@@ -9,8 +9,13 @@ var moment = require('moment');
 var index = require('./routes/index');
 var users = require('./routes/users');
 var config = require("./lib/config.js");
-
+var sha1 = require('sha1');
+var task = require('./task/wx_token_task');
 var app = express();
+
+global.TIMESTAMP = 'TIMESTAMP';
+global.NONCESTR = 'NONCESTR';
+global.SIGNATURE = 'SIGNATURE';
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -57,7 +62,7 @@ REDIS_OPT.port = config.redis.port;
 REDIS_OPT.db = config.redis.db;
 
 if (null != config.redis.password) {
-    REDIS_OPT.pass = config.redis.password;
+    REDIS_OPT.password = config.redis.password;
 }
 
 var store = new RedisStore(REDIS_OPT);
@@ -115,6 +120,20 @@ app.get("/api/getsession", function(req, res) {
     });
 });
 // session设置必须位于路由入口之前
+app.use(function(req, res, next){
+    var token = config.weixin.token;
+    var signature = req.query.signature;
+    var nonce = req.query.nonce;
+    var timestamp = req.query.timestamp;
+    var echostr = req.query.echostr;
+    var str = [token, timestamp, nonce].sort().join('');
+    var sha = sha1(str);
+    if (sha === signature) {
+        res.send(echostr);
+    } else {
+        next();
+    }
+})
 app.use('/', index);
 app.use('/users', users);
 // catch 404 and forward to error handler

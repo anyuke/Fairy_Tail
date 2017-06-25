@@ -1,2 +1,5 @@
 cluster/node_modules/
 cluster/npm-debug.log
+example_one/node_modules/
+example_one/npm-debug.log
+example_one/lib/config.js
