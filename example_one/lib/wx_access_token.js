@@ -1,8 +1,8 @@
 /**
  * @Author:      liyunfei
  * @DateTime:    2017-06-25 10:58:54
- * @Api_Name:    wx_access_token 
- * @Api_Params:  
+ * @Api_Name:    wx_access_token
+ * @Api_Params:
  * @Description: 获取微信access_token 注：需要全局保存
  */
 var request = require("request");
@@ -26,6 +26,9 @@ if (null != config.redis.password) {
 }
 
 var redis_client = redis.createClient(REDIS_OPT);
+redis_client.on("error", function (err) {
+    log.error("Error: "+err.stack);
+});
 
 exports.refresh_access_token = function(config, actor){
     var appid = config.weixin.appID;

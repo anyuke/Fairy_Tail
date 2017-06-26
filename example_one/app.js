@@ -13,10 +13,6 @@ var sha1 = require('sha1');
 var task = require('./task/wx_token_task');
 var app = express();
 
-global.TIMESTAMP = 'TIMESTAMP';
-global.NONCESTR = 'NONCESTR';
-global.SIGNATURE = 'SIGNATURE';
-
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');

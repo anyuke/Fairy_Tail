@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
-var mydb = require("../lib/myoracle.js");
-var db = require('oracledb');
+// var mydb = require("../lib/myoracle.js");
+// var db = require('oracledb');
 var Log = require('../lib/log');
 var log = Log.Create('INDEX');
 var login_check = require('../lib/login_check');
@@ -10,18 +10,37 @@ var async = require('async');
 var redis = require("redis");
 var sha1 = require('sha1');
 const config = require('../lib/config');
+var sign = require('../lib/sign');
+
+router.get('/sign', function (req, res, next) {
+    var url = req.query.url;
+    var data = sign(jsapi_ticket, url);
+    data.appId = config.weixin.appID;
+    log.info('data:', data);
+    res.json({
+        result: data
+    });
+    return;
+});
 
 /* GET home page. */
-router.get('/', login_check, function(req, res, next) {
+router.get('/', function(req, res, next) {
     // 第一步：用户同意授权，获取code
     var appid = config.weixin.appID;
     var secret = config.weixin.appsecret;
-    var redirect_url = "http://b927ev.natappfree.cc/auth";
+    var redirect_url = "http://97wcq6.natappfree.cc/auth";
     redirect_url = encodeURIComponent(redirect_url);
     var authurl =
         "https://open.weixin.qq.com/connect/oauth2/authorize?appid=" + appid + "&redirect_uri=" + redirect_url + "&response_type=" +
         "code&scope=snsapi_userinfo&state=STATE#wechat_redirect";
     res.redirect(authurl);
+});
+
+router.get('/home', function(req, res, next) {
+    res.render('home', {
+        title: '首页'
+    });
+    return;
 });
 
 router.get('/auth', function(req, res, next) {
@@ -94,103 +113,117 @@ router.get('/auth', function(req, res, next) {
             log.error(err);
             return;
         }
-        var actor = {};
-        actor.user_info = result['get_user_info'];
+        res.redirect('/home');
+        return;
+        // var actor = {};
+        // actor.user_info = result['get_user_info'];
+        // // 计算签名方法
+        // var calcSignature = function(ticket, noncestr, ts, url) {
+        //     var str = 'jsapi_ticket=' + ticket + '&noncestr=' + noncestr + '&timestamp=' + ts + '&url=' + url;
+        //     var sha = sha1(str);
+        //     return sha;
+        // }
+        // log.info('req.originalUrl:', req.originalUrl);
+        // var noncestr = 'Wm3WZYTPz0wzccnW';
+        // var timestamp = 1414587457;
+        // var ticket = jsapi_ticket;
+        // var url = 'http://9kadz9.natappfree.cc';
+        // var signature = calcSignature(ticket, noncestr, timestamp, url);
 
-        mydb.getConnection(actor, function(actor, err, connection) {
-            if (null != err || null == connection) {
-                mydb.doRelease(connection);
-                log.error("DB ERROR:" + err.message);
-                res.json({
-                    status: 200,
-                    msg: '数据库错误'
-                });
-                return;
-            }
-            actor.sql =
-                "INSERT INTO \"user\" VALUES " +
-                "   (USER_SEQ.NEXTVAL, :OPENID, :NICKNAME, :SEX, " +
-                "   :LANGUAGE, :CITY, :PROVINCE, :COUNTRY, :HEADIMGURL, :PRIVILEGE)";
-            if (0 === actor.user_info.privilege.length) {
-                actor.user_info.privilege = '';
-            }
-            actor.param = {
-                OPENID: {
-                    val: actor.user_info.openid,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                },
-                NICKNAME: {
-                    val: actor.user_info.nickname,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                },
-                SEX: {
-                    val: actor.user_info.sex,
-                    type: db.NUMBER,
-                    dir: db.BIND_IN
-                },
-                LANGUAGE: {
-                    val: actor.user_info.language,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                },
-                CITY: {
-                    val: actor.user_info.city,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                },
-                PROVINCE: {
-                    val: actor.user_info.province,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                },
-                COUNTRY: {
-                    val: actor.user_info.country,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                },
-                HEADIMGURL: {
-                    val: actor.user_info.headimgurl,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                },
-                PRIVILEGE: {
-                    val: actor.user_info.privilege,
-                    type: db.STRING,
-                    dir: db.BIND_IN
-                }
-            }
-            log.info('sql:%s', actor.sql);
-            log.info('param:%s', JSON.stringify(actor.param));
-            connection.execute(actor.sql, actor.param, function(err, result) {
-                mydb.doRelease(connection);
-                if (err) {
-                    log.error(err);
-                    res.json({
-                        status: 200,
-                        msg: '查询出错'
-                    });
-                    return;
-                }
-                // 计算签名方法
-                var calcSignature = function(ticket, noncestr, ts, url) {
-                    var str = 'jsapi_ticket=' + ticket + '&noncestr=' + noncestr + '&timestamp=' + ts + '&url=' + url;
-                    var sha = sha1(str);
-                    return sha;
-                }
-                var noncestr = 'Wm3WZYTPz0wzccnW';
-                var timestamp = 1414587457;
-                var ticket = jsapi_ticket;
-                var url = 'http://b927ev.natappfree.cc' + req.originalUrl;
-                var signature = calcSignature(ticket, noncestr, timestamp, url);
+        // mydb.getConnection(actor, function(actor, err, connection) {
+        //     if (null != err || null == connection) {
+        //         mydb.doRelease(connection);
+        //         log.error("DB ERROR:" + err.message);
+        //         res.json({
+        //             status: 200,
+        //             msg: '数据库错误'
+        //         });
+        //         return;
+        //     }
+        //     actor.sql =
+        //         "INSERT INTO \"user\" VALUES " +
+        //         "   (USER_SEQ.NEXTVAL, :OPENID, :NICKNAME, :SEX, " +
+        //         "   :LANGUAGE, :CITY, :PROVINCE, :COUNTRY, :HEADIMGURL, :PRIVILEGE)";
+        //     if (0 === actor.user_info.privilege.length) {
+        //         actor.user_info.privilege = '';
+        //     }
+        //     actor.param = {
+        //         OPENID: {
+        //             val: actor.user_info.openid,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         },
+        //         NICKNAME: {
+        //             val: actor.user_info.nickname,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         },
+        //         SEX: {
+        //             val: actor.user_info.sex,
+        //             type: db.NUMBER,
+        //             dir: db.BIND_IN
+        //         },
+        //         LANGUAGE: {
+        //             val: actor.user_info.language,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         },
+        //         CITY: {
+        //             val: actor.user_info.city,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         },
+        //         PROVINCE: {
+        //             val: actor.user_info.province,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         },
+        //         COUNTRY: {
+        //             val: actor.user_info.country,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         },
+        //         HEADIMGURL: {
+        //             val: actor.user_info.headimgurl,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         },
+        //         PRIVILEGE: {
+        //             val: actor.user_info.privilege,
+        //             type: db.STRING,
+        //             dir: db.BIND_IN
+        //         }
+        //     }
+        //     log.info('sql:%s', actor.sql);
+        //     log.info('param:%s', JSON.stringify(actor.param));
+        //     connection.execute(actor.sql, actor.param, function(err, result) {
+        //         mydb.doRelease(connection);
+        //         if (err) {
+        //             log.error(err);
+        //             res.json({
+        //                 status: 200,
+        //                 msg: '查询出错'
+        //             });
+        //             return;
+        //         }
+        //         // 计算签名方法
+        //         var calcSignature = function(ticket, noncestr, ts, url) {
+        //             var str = 'jsapi_ticket=' + ticket + '&noncestr=' + noncestr + '&timestamp=' + ts + '&url=' + url;
+        //             var sha = sha1(str);
+        //             return sha;
+        //         }
+        //         var noncestr = 'Wm3WZYTPz0wzccnW';
+        //         var timestamp = 1414587457;
+        //         var ticket = jsapi_ticket;
+        //         var url = 'http://b927ev.natappfree.cc' + req.originalUrl;
+        //         var signature = calcSignature(ticket, noncestr, timestamp, url);
 
-                res.render('home', {
-                    title: '首页', signature: signature, appId: config.weixin.appID
-                });
-                return;
-            })
-        });
+        //         res.render('home', {
+        //             title: '首页', signature: signature, appId: config.weixin.appID
+        //         });
+        //         return;
+        //     })
+        // });
     });
 });
 

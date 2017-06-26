@@ -7,7 +7,7 @@ module.exports = {
         ip: '127.0.0.1',
         port: 6379,
         db: 1,
-        password: null
+        password: 'LYF'
     },
     oracle: {
         db_user: 'dev_ydm',
