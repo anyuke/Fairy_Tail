@@ -4,3 +4,259 @@
 [2017-06-27 00:03:51.230] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd05rlCg1k130QDud_wjEj6PUUBJ-6ko31bq-eIa62nbLFg
 [2017-06-27 00:03:51.231] [INFO] WX_ACCESS_TOKEN - expires time:7000000
 [2017-06-27 00:03:52.425] [INFO] CLUSTER START - 核心4 pid:7064
+[2017-06-27 14:59:54.919] [INFO] CLUSTER START - 宿主启动...
+[2017-06-27 14:59:54.986] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 14:59:54.987] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 14:59:55.422] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:FL9f6HQenqCVZgAjov0mgZnQsSvtaLEiJtEJpoVe7KFXT2nmhgzmc4QsZ5FicmP35ktFNiLx1V9u-vtQNcFka7gNsuQfWvxsNCVmXanWbHQIWWhAAAYMM
+[2017-06-27 14:59:55.423] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 14:59:55.726] [INFO] CLUSTER START - 核心2 pid:7632
+[2017-06-27 14:59:55.735] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 14:59:55.738] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 14:59:55.767] [INFO] CLUSTER START - 核心2 pid:6728
+[2017-06-27 14:59:55.772] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 14:59:55.774] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 14:59:55.822] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 14:59:55.822] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 14:59:56.001] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:FL9f6HQenqCVZgAjov0mgZnQsSvtaLEiJtEJpoVe7KFIM9a0lKj96_Ik-df_ll-tup5MJ5VO9wS9WMEEU0cJ3ge5kcPaBnh4a7VL9sRjEqcSLOhAAAHAD
+[2017-06-27 14:59:56.001] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 14:59:56.033] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:FL9f6HQenqCVZgAjov0mgZnQsSvtaLEiJtEJpoVe7KGJwWB9S91urRotVePrOQWgkoDfklAN2fxgNkfHFI4L_NQiUWH44TFq51hV-kRZPhIDXZhAAAMGI
+[2017-06-27 14:59:56.033] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 14:59:56.290] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 14:59:56.290] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 14:59:56.310] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 14:59:56.310] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:04:31.971] [INFO] CLUSTER START - 宿主启动...
+[2017-06-27 15:04:32.008] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:04:32.010] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:04:32.298] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:dQP6WxfB6hjUl_pQXKnpDtMufSZm3H1inQfyLnDgbkfZX4FT0WpWgHydWzNvIV5Pfk1PLW2hCByh4ldK5NtAtZpeOl0_m4-ruoWXNNCw-tMCUUdAGAIAA
+[2017-06-27 15:04:32.298] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:04:32.633] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:04:32.633] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:04:32.745] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:04:32.742] [INFO] CLUSTER START - 核心2 pid:7232
+[2017-06-27 15:04:32.747] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:04:32.747] [INFO] CLUSTER START - 核心2 pid:7256
+[2017-06-27 15:04:32.752] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:04:32.754] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:04:33.293] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:dQP6WxfB6hjUl_pQXKnpDtMufSZm3H1inQfyLnDgbkdJgFlHyYpEsRgBoRW6Tn9V9iCsFTiq6wn8U3M1NCxV1_RCpLWsrqWyk72bYb2GEWoHUGdAGAZMY
+[2017-06-27 15:04:33.293] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:04:33.382] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:dQP6WxfB6hjUl_pQXKnpDtMufSZm3H1inQfyLnDgbkdnmG5KpCS4YmYfAj53CbT-8xt6_IaM9UXGrHKgmVCVy22d_dVH7T7TavUiPHoAvPYUFIdAGANYB
+[2017-06-27 15:04:33.383] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:04:34.031] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:04:34.032] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:04:34.087] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:04:34.087] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:06:37.404] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:06:47.152] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:08:19.839] [INFO] [EXAMPLE_ONE] - GET /?signature=185026a6bd92debabfb5cd267cdac1c1883459c0&echostr=1634010319237906143&timestamp=1498547295&nonce=617691163
+[2017-06-27 15:08:49.889] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:08:49.950] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:08:49.990] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:08:53.024] [INFO] [EXAMPLE_ONE] - GET /auth?code=0119qsVu0fRCqd1Uj9Uu0ykxVu09qsV6&state=STATE
+[2017-06-27 15:08:53.305] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:08:53.967] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:08:54.008] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:09:03.186] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:09:12.337] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:09:15.700] [INFO] [EXAMPLE_ONE] - GET /auth?code=051HPLn10UzPmC1ePqn106rAn10HPLn3&state=STATE
+[2017-06-27 15:09:15.750] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:09:16.283] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:09:16.286] [ERROR] [EXAMPLE_ONE] - Not Found
+[2017-06-27 15:09:16.289] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:09:16.290] [INFO] [EXAMPLE_ONE] - GET /favicon.ico
+[2017-06-27 15:10:24.758] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:10:24.975] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:10:24.978] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:12:06.571] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:12:06.898] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:12:06.899] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:12:19.529] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:12:19.807] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:12:19.809] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:23:18.611] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:23:19.042] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:23:19.043] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:24:00.497] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:24:00.744] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:24:00.745] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:24:37.050] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:24:37.566] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:24:37.567] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:24:53.029] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:24:53.237] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:24:53.238] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:26:01.153] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:26:17.806] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:26:28.773] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:26:29.159] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:26:29.161] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:26:48.910] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:26:49.633] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:26:49.636] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:27:29.973] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:27:30.299] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'Wm3WZYTPz0wzccnW',
+  timestamp: 1414587457,
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: 'a4a6d2cc5be1e738f371016ea8282bdf16f4d585',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:27:30.300] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:32:45.769] [INFO] CLUSTER START - 宿主启动...
+[2017-06-27 15:32:45.827] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:32:45.829] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:32:46.234] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:43a8X7BRZedWigcZi6bCk-ES-QSjN68FKKrYepK-yz1WIG54W8RiJ4-ACv2bl0oskEna9aEGJhbCizxM_ndVXY19aY_rFOsEcC8mvj72dR4yMArkVXZAQkTJqIdThLGCGJDeAFABEY
+[2017-06-27 15:32:46.234] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:32:46.534] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:32:46.534] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:32:46.712] [INFO] CLUSTER START - 核心2 pid:9952
+[2017-06-27 15:32:46.716] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:32:46.717] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:32:46.802] [INFO] CLUSTER START - 核心2 pid:9420
+[2017-06-27 15:32:46.807] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:32:46.809] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:32:47.068] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:43a8X7BRZedWigcZi6bCk-ES-QSjN68FKKrYepK-yz2ZIE0yHkU4ARNcl1UFSGX-vBT76jeTtZiYrwC5A51DTn-fClX8Lh9Eq2T3t2-sEZXE1-R6NgIt2staiPnIwk1WLPSeAFAZDG
+[2017-06-27 15:32:47.075] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:43a8X7BRZedWigcZi6bCk-ES-QSjN68FKKrYepK-yz1NxuxUBvhzbhHprlLAxwA9j8XSQzI4ugDx4aa08rm0JLTus82Ya_tsDMCSHHhqimdGV3AS1ibYAG3ANp3Fjr5hHCMeAFAXSC
+[2017-06-27 15:32:47.068] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:32:47.075] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:32:47.333] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:32:47.333] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:32:47.348] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:32:47.349] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:32:57.615] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:32:57.833] [ERROR] [EXAMPLE_ONE] - log is not defined
+[2017-06-27 15:32:57.838] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:33:19.216] [INFO] CLUSTER START - 宿主启动...
+[2017-06-27 15:33:19.272] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:33:19.274] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:33:19.545] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:R3H1xa1DDOedaGnCgR31uKMdgMDeypOO04K7iUP0yfNPaqYuQQmYF7Whe0e4G_hiwctYEL4UDEWOt-gslyoLENQJzf4sN_RzezlqS1hksfMKEIzLjti6hjyx1XHSdnFTIQTeAFAOWZ
+[2017-06-27 15:33:19.545] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:33:19.896] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:33:19.897] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:33:20.007] [INFO] CLUSTER START - 核心2 pid:9364
+[2017-06-27 15:33:20.010] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:33:20.012] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:33:20.080] [INFO] CLUSTER START - 核心2 pid:7684
+[2017-06-27 15:33:20.083] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:33:20.084] [WARN] console - node_redis: Warning: Redis server does not require a password, but a password was supplied.
+[2017-06-27 15:33:20.300] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:R3H1xa1DDOedaGnCgR31uKMdgMDeypOO04K7iUP0yfM7AvZsZncH2aS_ACBkJ761_ceczm0l3WXR8grfcT9ZsYnPh56t_8kmsUejqpwHKuvm1rNR-V63CpoFVduswl6mVHJeAFABNP
+[2017-06-27 15:33:20.300] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:33:20.301] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:R3H1xa1DDOedaGnCgR31uKMdgMDeypOO04K7iUP0yfN4NXeoqFJdjCzYRuGe1L6r-ps2icDooyb6bZraFWS-q6mdTEyoxtSxx0YZrsOFVGOIQ9UP3hg-oJCrmncsNOOEZACeAFADEG
+[2017-06-27 15:33:20.302] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:33:20.573] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:33:20.574] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:33:20.584] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg
+[2017-06-27 15:33:20.585] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 15:33:23.243] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:33:23.725] [INFO] console - string: jsapi_ticket=kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg&noncestr=3okepa1hj71u4n2&timestamp=1498548803&url=http://sug4mi.natappfree.cc/home
+[2017-06-27 15:33:23.727] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: '3okepa1hj71u4n2',
+  timestamp: '1498548803',
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: '4fc517b9a28b1440afb41a6f77989f2bc76c2ade',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:33:23.762] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:34:28.979] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:34:30.213] [INFO] console - string: jsapi_ticket=kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg&noncestr=ajjwgw1fae64j9k&timestamp=1498548870&url=http://sug4mi.natappfree.cc/home
+[2017-06-27 15:34:30.214] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'ajjwgw1fae64j9k',
+  timestamp: '1498548870',
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: '9f60943c164c7a8a74f48f6ef077a304e5649edf',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:34:30.216] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:35:24.322] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:35:24.335] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:35:24.350] [INFO] [EXAMPLE_ONE] - GET /
+[2017-06-27 15:35:27.833] [INFO] [EXAMPLE_ONE] - GET /auth?code=081vLtcY0BPM0Z1xTpdY0rUycY0vLtcI&state=STATE
+[2017-06-27 15:35:28.156] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:35:28.467] [INFO] console - string: jsapi_ticket=kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg&noncestr=bu8v319iwy1ra4i&timestamp=1498548928&url=http://sug4mi.natappfree.cc/home
+[2017-06-27 15:35:28.468] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'bu8v319iwy1ra4i',
+  timestamp: '1498548928',
+  url: 'http://sug4mi.natappfree.cc/home',
+  signature: '71f2f3f0c12db7897f9a787479b4fd3337813e4f',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:35:28.473] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome
+[2017-06-27 15:35:38.142] [INFO] [EXAMPLE_ONE] - GET /home
+[2017-06-27 15:35:49.108] [INFO] [EXAMPLE_ONE] - GET /home?from=singlemessage
+[2017-06-27 15:35:49.291] [INFO] console - string: jsapi_ticket=kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg&noncestr=xhfi3yvh55y4lso&timestamp=1498548949&url=http://sug4mi.natappfree.cc/home?from=singlemessage
+[2017-06-27 15:35:49.292] [INFO] INDEX - data: { jsapi_ticket: 'kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd071XSnSLHy1t3Z1xi4PqrQlWWCezhlUJi4ANTJRjMwHfg',
+  nonceStr: 'xhfi3yvh55y4lso',
+  timestamp: '1498548949',
+  url: 'http://sug4mi.natappfree.cc/home?from=singlemessage',
+  signature: '20a69e851b7b31c18d38197558d8e06109115d8b',
+  appId: 'wx3bb0aded1c8a247e' }
+[2017-06-27 15:35:49.295] [INFO] [EXAMPLE_ONE] - GET /sign?url=http%3A%2F%2Fsug4mi.natappfree.cc%2Fhome%3Ffrom%3Dsinglemessage
+[2017-06-27 17:29:59.658] [INFO] WX_ACCESS_TOKEN - appid:wx3bb0aded1c8a247e
+[2017-06-27 17:29:59.659] [INFO] WX_ACCESS_TOKEN - secret:d4624c36b6795d1d99dcf0547af5443d
+[2017-06-27 17:30:00.155] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:7TaFH6NaJGrmavJmh2fC69bd7f4tHHhEsbB9kN1g9P9iRLFAj4A_K9YqQkvxoR649bHRrwLdSxSiEQE4XxRJLlzZgjYiS5xZOcvdDfULttgYUVfAFALHI
+[2017-06-27 17:30:00.157] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 17:30:00.182] [INFO] WX_ACCESS_TOKEN - appid:wx3bb0aded1c8a247e
+[2017-06-27 17:30:00.183] [INFO] WX_ACCESS_TOKEN - secret:d4624c36b6795d1d99dcf0547af5443d
+[2017-06-27 17:30:00.414] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd07E2AbVsRwQKFvzfQOgTd6JJwpXTczsxBfUim43ZfAcTw
+[2017-06-27 17:30:00.414] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 17:30:00.423] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:7TaFH6NaJGrmavJmh2fC69bd7f4tHHhEsbB9kN1g9P9eY5_tNw1Zi9GH_au_F4LOSW-X7pvjH7dXYDTOi-VoBSpOya3zEQz3qwG8Zjkll9gUVHfAFANOA
+[2017-06-27 17:30:00.423] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 17:30:00.760] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd07E2AbVsRwQKFvzfQOgTd6JJwpXTczsxBfUim43ZfAcTw
+[2017-06-27 17:30:00.761] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 17:30:02.848] [INFO] WX_ACCESS_TOKEN - appid:wx3bb0aded1c8a247e
+[2017-06-27 17:30:02.849] [INFO] WX_ACCESS_TOKEN - secret:d4624c36b6795d1d99dcf0547af5443d
+[2017-06-27 17:30:03.161] [INFO] WX_ACCESS_TOKEN - Weixin access_token refreshed, new access_token:7TaFH6NaJGrmavJmh2fC69bd7f4tHHhEsbB9kN1g9P-VuwHuJcw3dC3qB_yLDFiHGQVg7zQn-LVEBw6lu9poxyRMlSa6tBnC_HH_fn7hp5oTOFfAFAEZQ
+[2017-06-27 17:30:03.162] [INFO] WX_ACCESS_TOKEN - expires time:7000000
+[2017-06-27 17:30:03.593] [INFO] WX_ACCESS_TOKEN - JSPAI refresh ticket success,new ticket:kgt8ON7yVITDhtdwci0qeRcc8OCLyGk6QV3QcJMMd07E2AbVsRwQKFvzfQOgTd6JJwpXTczsxBfUim43ZfAcTw
+[2017-06-27 17:30:03.594] [INFO] WX_ACCESS_TOKEN - expires time:7000000

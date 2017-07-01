@@ -22,8 +22,8 @@ var raw = function (args) {
 var sign = function (jsapi_ticket, url) {
   var ret = {
     jsapi_ticket: jsapi_ticket,
-    nonceStr: 'Wm3WZYTPz0wzccnW',
-    timestamp: 1414587457,
+    nonceStr: createNonceStr(),
+    timestamp: createTimestamp(),
     url: url
   };
   var string = raw(ret);

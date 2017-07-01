@@ -1,0 +1,44 @@
+<html>
+<head>
+    <script type="text/javascript" src="../js/raphael-min.js"></script>
+    <script type="text/javascript" src="../js/dracula_graffle.js"></script>
+    <script type="text/javascript" src="../js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="../js/dracula_graph.js"></script>
+</head>
+<body>
+<div id="canvas"></div>
+</body>
+<script>
+    window.onload = function() {
+
+        var width = $(document).width() - 20;
+        var height = $(document).height() - 60;
+
+        var g = new Graph();
+
+        var render = function(r, n) {
+            var set = r.set()
+            .push(
+                r.image("http://wx.qlogo.cn/mmopen/q1icSeKICoV4W3bb1gVJgllO44ruG1doXZJ0gzm00Ak6HMV8LgvUN6gQCIUeKYuH1HlkQVqscKb2ULN8NvIK74XQIn0WHj4lI/0", n.point[0], n.point[1]+10, 50, 50)
+            ).push(
+                r.text(n.point[0]+25, n.point[1]+70, n.label).attr({"font-size":"15px","fill":"black"})
+            );
+            return set;
+        };
+        g.addNode("cherry", {label:"cherry", render:render});
+
+        g.addEdge("strawberry", "cherry");
+
+        g.addEdge("tomato", "apple");
+         
+        g.addEdge("tomato", "kiwi");
+
+        g.addEdge("cherry", "tomato", {label : "Meat-to-Apple" });
+
+        var layouter = new Graph.Layout.Spring(g);
+        layouter.layout();
+        
+        var renderer = new Graph.Renderer.Raphael('canvas', g, width, height);
+    }
+</script>
+</html>
