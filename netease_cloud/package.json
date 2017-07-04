@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "crypto": "^0.0.3",
+    "http": "^0.0.0",
+    "needle": "^1.6.0",
+    "request": "^2.81.0"
+  }
+}
