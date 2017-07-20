@@ -1,0 +1,7 @@
+[2017-07-04 16:19:30.998] [INFO] pomelo - [32m[D:\liyunfei\Fairy_Tail\HelloWorld\game-server\node_modules\pomelo\lib\application.js] [39mapplication inited: "connector-server-1"
+[2017-07-04 16:19:31.354] [INFO] pomelo - [32m[D:\liyunfei\Fairy_Tail\HelloWorld\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" enter after start...
+[2017-07-04 16:19:31.474] [INFO] pomelo - [32m[D:\liyunfei\Fairy_Tail\HelloWorld\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" finish start
+[2017-07-04 16:19:31.474] [INFO] pomelo - [32m[D:\liyunfei\Fairy_Tail\HelloWorld\game-server\node_modules\pomelo\lib\application.js] [39m"connector-server-1" startup in 462 ms
+[2017-07-04 16:23:19.092] [DEBUG] pomelo - [36m[D:\liyunfei\Fairy_Tail\HelloWorld\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] getSession session is created with session id: 1
+[2017-07-04 16:23:19.111] [DEBUG] pomelo - [36m[D:\liyunfei\Fairy_Tail\HelloWorld\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] handleMessage session id: 1, msg: {"id":2,"route":"connector.entryHandler.entry","body":"hello pomelo"}
+[2017-07-04 16:23:19.114] [DEBUG] pomelo - [36m[D:\liyunfei\Fairy_Tail\HelloWorld\game-server\node_modules\pomelo\lib\components\connector.js] [39m[connector-server-1] send message reqId: 2, route: connector.entryHandler.entry, msg: {"code":200,"msg":"game server is ok."}, receivers: [1], opts: {"type":"response","userOptions":{},"isResponse":true}

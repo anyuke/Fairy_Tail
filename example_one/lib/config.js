@@ -20,5 +20,12 @@ module.exports = {
         appsecret: 'd4624c36b6795d1d99dcf0547af5443d',
         token: 'weixin'
     },
+    mysql: {
+        host: '127.0.0.1',
+        user: 'root',
+        password: '',
+        database: 'test',
+        port: 3306
+    },
     proxy_url: 'http://sug4mi.natappfree.cc'
 }
